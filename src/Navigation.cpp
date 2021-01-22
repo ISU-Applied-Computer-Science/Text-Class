@@ -211,7 +211,7 @@ void Navigation::copyFiles()
     };
 }
 
-void Navigation::sortFileфAscending()
+void Navigation::sortFileAscending()
 {
     using namespace std;
     
