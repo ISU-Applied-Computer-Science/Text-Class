@@ -24,8 +24,11 @@ private:
     // Интерфейс копирование из файла #2 в конец файла #1
     void copyFiles();
     
+    // Интерфейс Сформировать файл с уникальными строками и общими строками
+    void uniqueStrings();
+    
     // Интерфейс Сортировка данных по возрастанию
-    void sortFileфAscending();
+    void sortFileAscending();
     
 public:
     Navigation();
